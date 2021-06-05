@@ -1,0 +1,29 @@
+{
+  "name": "wechaty-open-source-way-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "wechaty": "^0.60.12",
+    "wechaty-puppet-wechat": "^0.28.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
+  },
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juzibot/wechaty-open-source-way-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juzibot/wechaty-open-source-way-demo/issues"
+  },
+  "homepage": "https://github.com/juzibot/wechaty-open-source-way-demo#readme"
+}
